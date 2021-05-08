@@ -16,7 +16,6 @@
 #define BUFLEN 256
 #define FRAME_SIZE  256
 
-
 //-------------------------------------------------------------------
 unsigned getpage(unsigned x) { return (0xff00 & x) >> 8; }
 
