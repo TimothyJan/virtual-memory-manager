@@ -1,5 +1,5 @@
 # virtual-memory-manager
-Complete Virtual Memory Manager in C++
+Complete Virtual Memory Manager in C
 CPSC 351 - Operating System Concepts Project 4
 This project consists of writing a program that translates logical to physical address space of size 2^16 
 = 65,536 bytes. This program will read from a file containing logical addresses and, using a TLB and 
